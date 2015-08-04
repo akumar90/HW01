@@ -9,24 +9,24 @@
 # and the type (of the value of the expression).
 
 # 1. width/2
-# value:
-# type:
+# value: 8
+# type: Integer
 
 # 2. width/2.0
-# value:
-# type:
+# value: 8.5
+# type: Float
 
 # 3. height/3
-# value:
-# type:
+# value: 4.0
+# type: FLoat
 
 # 4. 1 + 2 * 5
-# value:
-# type:
+# value: 14.1
+# type: Float
 
 # 5. delimiter * 5
-# value:
-# type:
+# value: .....
+# type: ASCII characters
 # 
 # Use the Python interpreter to check your answers.
 # [comment on any surprises here]
